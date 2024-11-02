@@ -1,0 +1,14 @@
+C:\xampp\htdocs\C-simple-game\bin\Debug\net8.0-windows\C-simple-game.exe
+C:\xampp\htdocs\C-simple-game\bin\Debug\net8.0-windows\C-simple-game.deps.json
+C:\xampp\htdocs\C-simple-game\bin\Debug\net8.0-windows\C-simple-game.runtimeconfig.json
+C:\xampp\htdocs\C-simple-game\bin\Debug\net8.0-windows\C-simple-game.dll
+C:\xampp\htdocs\C-simple-game\bin\Debug\net8.0-windows\C-simple-game.pdb
+C:\xampp\htdocs\C-simple-game\obj\Debug\net8.0-windows\C-simple-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\C-simple-game\obj\Debug\net8.0-windows\C-simple-game.AssemblyInfoInputs.cache
+C:\xampp\htdocs\C-simple-game\obj\Debug\net8.0-windows\C-simple-game.AssemblyInfo.cs
+C:\xampp\htdocs\C-simple-game\obj\Debug\net8.0-windows\C-simple-game.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\C-simple-game\obj\Debug\net8.0-windows\C-simple-game.dll
+C:\xampp\htdocs\C-simple-game\obj\Debug\net8.0-windows\refint\C-simple-game.dll
+C:\xampp\htdocs\C-simple-game\obj\Debug\net8.0-windows\C-simple-game.pdb
+C:\xampp\htdocs\C-simple-game\obj\Debug\net8.0-windows\C-simple-game.genruntimeconfig.cache
+C:\xampp\htdocs\C-simple-game\obj\Debug\net8.0-windows\ref\C-simple-game.dll
